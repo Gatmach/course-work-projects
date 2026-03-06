@@ -1,0 +1,1 @@
+SELECT * FROM ta ORDER BY name ASC;

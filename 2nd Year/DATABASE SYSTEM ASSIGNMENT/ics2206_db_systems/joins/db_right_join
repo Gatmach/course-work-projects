@@ -1,0 +1,4 @@
+SELECT s.id, s.name, ce.course_id, c.title
+FROM course_enrollment ce
+RIGHT JOIN student s ON s.id = ce.student_id
+RIGHT JOIN course c ON ce.course_id = c.id;

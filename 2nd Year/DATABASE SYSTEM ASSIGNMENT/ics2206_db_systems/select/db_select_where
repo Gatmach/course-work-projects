@@ -1,0 +1,1 @@
+SELECT * FROM instructor;[D WHERE id = 1;

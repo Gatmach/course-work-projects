@@ -1,0 +1,1 @@
+SELECT year_of_study, COUNT(*) AS total_students FROM student GROUP BY year_of_study;

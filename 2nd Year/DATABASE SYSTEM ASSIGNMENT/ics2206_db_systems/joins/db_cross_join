@@ -1,0 +1,3 @@
+SELECT s.id, s.name, c.id AS course_id, c.title AS course_title
+FROM student s
+CROSS JOIN course c;
