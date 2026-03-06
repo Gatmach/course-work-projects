@@ -1,0 +1,1 @@
+SELECT * FROM instructor WHERE dept_affiliation = 'Computer Science' OR dept_affiliation = 'Information Technology';

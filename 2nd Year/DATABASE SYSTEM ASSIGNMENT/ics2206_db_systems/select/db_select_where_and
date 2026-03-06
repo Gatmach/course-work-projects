@@ -1,0 +1,1 @@
+SELECT * FROM course WHERE year = 2 AND status = 'Pass';
