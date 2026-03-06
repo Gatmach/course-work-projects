@@ -1,2 +1,0 @@
-DESCRIBE tablename;
-SHOW CREATE TABLE tablename;
